@@ -19,3 +19,6 @@ Chip de processamento:
     Para portaria: Intel Pentium 
     Para clima: BullSequana XH3000 da Eviden - Supercomputador climático sediado em Petrópolis, chamado de Santos Dumont
     
+    ![FcdyCc3aIAIMz1n](https://github.com/user-attachments/assets/0c1c8816-ce8d-44aa-9d01-d908c8571dc2)
+
+    
