@@ -27,6 +27,7 @@ Chip de processamento:
 3) Observe a imagem e faça um comentário:
 
 ![Realação processamento-consumo energético](https://github.com/user-attachments/assets/0c1c8816-ce8d-44aa-9d01-d908c8571dc2)
+
 Legenda da imagem, feita por Alex Xu em uma postagem x: "The study below runs 10 benchmark problems in 28 languages. It measures the runtime, memory usage, and energy consumption of each language. The abstract of the paper is shown below."
 
 Comentário: A presente imagem faz uma correlação entre consumo de energia e capacidade de processamento. Esse é um dos trade-offs que devem ser levados em consideração quando se usa uma aplicação de processamento em larga escala. Uma vez que, por vezes, compensa muito mais fazer o processamento bruto em Linguagens mais próximas à linguagem de máquina e deixar as linguagens mais afastadas do hardware como interface humano máquina, reduzindo o custo operacional, o gasto energético e, frequentemente, o tempo gasto para o processamento final. Saber a resposta de por quê optar por uma ou outra tecnologia é a habilidade que se espera desenvolvida em um analista de sistemas. 
