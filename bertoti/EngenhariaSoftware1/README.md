@@ -19,7 +19,7 @@ Chip de processamento:
     Para portaria: Intel Pentium 
     Para clima: BullSequana XH3000 da Eviden - Supercomputador climático sediado em Petrópolis, chamado de Santos Dumont
     
-    ![FcdyCc3aIAIMz1n](https://github.com/user-attachments/assets/0c1c8816-ce8d-44aa-9d01-d908c8571dc2)
+![Realação processamento-consumo energético](https://github.com/user-attachments/assets/0c1c8816-ce8d-44aa-9d01-d908c8571dc2)
 
 A presente imagem faz uma correlação entre consumo de energia e capacidade de processamento. Esse é um dos trade-offs que devem ser levados em consideração quando se usa uma aplicação de processamento em larga escala. Uma vez que, por vezes, compensa muito mais fazer o processamento bruto em Linguagens mais próximas à linguagem de máquina e deixar as linguagens mais afastadas do hardware como interface humano máquina, reduzindo o custo operacional, o gasto energético e, frequentemente, o tempo gasto para o processamento final.
 
