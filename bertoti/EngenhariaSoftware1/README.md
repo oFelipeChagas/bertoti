@@ -32,3 +32,4 @@ Legenda da imagem, feita por Alex Xu em uma postagem x: "The study below runs 10
 
 Comentário: A presente imagem faz uma correlação entre consumo de energia e capacidade de processamento. Esse é um dos trade-offs que devem ser levados em consideração quando se usa uma aplicação de processamento em larga escala. Uma vez que, por vezes, compensa muito mais fazer o processamento bruto em Linguagens mais próximas à linguagem de máquina e deixar as linguagens mais afastadas do hardware como interface humano máquina, reduzindo o custo operacional, o gasto energético e, frequentemente, o tempo gasto para o processamento final. Saber a resposta de por quê optar por uma ou outra tecnologia é a habilidade que se espera desenvolvida em um analista de sistemas. 
     
+![diagrama uml loja online](https://github.com/user-attachments/assets/53a57594-53dd-495a-9a64-d43d49f3177d)
